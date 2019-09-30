@@ -1,0 +1,85 @@
+{ "songs":
+  [ { "title": "ice cream love"
+    , "artist": "nekomimi_STRaw"
+    , "genre": "Kawaii Bass Hop"
+    , "bpm": 107
+    , "charts":
+      [ { "md5": "1e34aeb53a94b63b54c96613a0ef5881"
+        , "info":
+          { "title": "ice cream love"
+          , "artist": "nekomimi_STRaw"
+          , "genre": "Kawaii Bass Hop"
+          , "subtitles":
+            [ "Another"
+            ]
+          , "subartists": []
+          , "difficulty": 4
+          , "level": 12
+          }
+        , "noteCount": 1446
+        , "bpm":
+          { "init": 107
+          , "min": 107
+          , "median": 107
+          , "max": 107
+          }
+        , "duration": 118.8785046728972
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "_another.bms"
+        }
+      , { "md5": "3306d5a10820798a1423678b7d0da9eb"
+        , "info":
+          { "title": "ice cream love"
+          , "artist": "nekomimi_STRaw"
+          , "genre": "Kawaii Bass Hop"
+          , "subtitles":
+            [ "Hyper"
+            ]
+          , "subartists": []
+          , "difficulty": 3
+          , "level": 10
+          }
+        , "noteCount": 817
+        , "bpm":
+          { "init": 107
+          , "min": 107
+          , "median": 107
+          , "max": 107
+          }
+        , "duration": 118.8785046728972
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "_hyper.bms"
+        }
+      , { "md5": "3f59945f84d1d408984bb014514ff5e2"
+        , "info":
+          { "title": "ice cream love"
+          , "artist": "nekomimi_STRaw"
+          , "genre": "Kawaii Bass Hop"
+          , "subtitles":
+            [ "Normal"
+            ]
+          , "subartists": []
+          , "difficulty": 2
+          , "level": 6
+          }
+        , "noteCount": 436
+        , "bpm":
+          { "init": 107
+          , "min": 107
+          , "median": 107
+          , "max": 107
+          }
+        , "duration": 118.8785046728972
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "_normal.bms"
+        }
+      ]
+    , "warnings": []
+    , "id": "ice_cream_love_ogg"
+    , "path": "ice_cream_love_ogg"
+    }
+  ]
+}
